@@ -1,5 +1,5 @@
 # INSTITUTO TECNOLÓGICO DE PACHUCA
-## Examen de Unidades I y II de Graficación (I.S.C.)
+## Examen de Unidades I  de Graficación (I.S.C.)
 
 * **Profesor:** M.T.I. Luis Alejandro Santana Valadez
 * **Fecha:** 23 de Septiembre de 2026
